@@ -3,7 +3,7 @@ int #whole number
 float #decimal numbers
 complex #complex number
 bool #True or False
-str #all letters
+str #all letters, you can print strings multiple times by print("str" * how_many_times)
 list #arrays
 tuple #constant point, i.e (x,y)
 set

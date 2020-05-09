@@ -22,3 +22,10 @@ combine_int_str = string_1 + str(int_1)
 print(combine_int_str)
 print(type(combine_int_str))
 
+#If we use \ within quotes it will take the next variable as a string even if its " or \
+#\n is new line
+#\t is tab
+
+
+weather = "\ts\"u\\nn\ny"
+print(weather)
