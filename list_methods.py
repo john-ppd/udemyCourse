@@ -167,7 +167,7 @@ print(b)
 print(c)
 print(d)
 
-a,b,c,*d,e = [1,2,3,4,5,6,7,8,9] #d will be assigned remaining items EXCEPT LAST ITEM, that is assigned to e
+a,b,c,*d,e = [1,2,3,4,5,6,7,8,9] #*d will be assigned remaining items EXCEPT LAST ITEM, that is assigned to e
 print(a)
 print(b)
 print(c)
